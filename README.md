@@ -25,7 +25,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;I'm a passionate front-end engineer who enjoys building wheels and playing with some fun stuff.
 - 🔭 &nbsp;I’m currently working on React and TypeScript. :wink:
 - 🌱 &nbsp;I’m currently learning Rust.
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/HTML/CSS or React/Vue/Solidjs.
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/HTML/CSS or React/Vue.
 
 Lifelong learner. 
 
